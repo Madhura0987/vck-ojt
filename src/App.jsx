@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 
-import "./styles/Pages.css";
+// import "./styles/Pages.css";
 import ChatbotComponent from "./components/Chatbot/ChatbotComponents";
 
 import NotFoundPage from "./pages/NotFoundPage";
