@@ -5,6 +5,7 @@ import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 
 import "./styles/Pages.css";
+import './App.css'
 import ChatbotComponent from "./components/Chatbot/ChatbotComponents";
 
 import NotFoundPage from "./pages/NotFoundPage";
